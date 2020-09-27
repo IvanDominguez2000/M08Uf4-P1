@@ -18,6 +18,10 @@ and open the template in the editor.
         function idp_funcion2(){
             return idp_funcion2;
         }
+        
+        function idp_funcion3(){
+            return idp_funcion3();
+        }
         ?>
     </body>
 </html>
