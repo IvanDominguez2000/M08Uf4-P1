@@ -24,8 +24,7 @@ and open the template in the editor.
         }
         
         function idp_especial(){
-            echo "Joan Moreno Callejas";
-            echo "Adria Ballesteros Bermejo";
+            
         }
         ?>
     </body>
