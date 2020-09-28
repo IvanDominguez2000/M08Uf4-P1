@@ -22,6 +22,10 @@ and open the template in the editor.
         function idp_funcion3(){
             return idp_funcion3();
         }
+        
+        function idp_especial(){
+            
+        }
         ?>
     </body>
 </html>
